@@ -1,0 +1,51 @@
+
+
+
+.event01
+{
+    width: 90%;
+    animation: event_a 4s ;
+
+}
+.event02
+{
+    width: 60%;
+    animation: event_b 4s ;
+
+}
+.event03
+{
+    width: 50%;
+    animation: event_c 4s ;
+
+}
+.event04
+{
+    width: 80%;
+    animation: event_d 4s ;
+
+}
+
+@keyframes event_a {
+  0% { width: 0px; }
+  100% { width: 90%; }
+}
+
+@keyframes event_b {
+  0% { width: 0px; }
+  100% { width: 60%; }
+}
+
+@keyframes event_c {
+  0% { width: 0px; }
+  100% { width: 50%; }
+}
+
+@keyframes event_d {
+  0% { width: 0px; }
+  100% { width: 80%; }
+}
+
+
+
+

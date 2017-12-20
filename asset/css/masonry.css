@@ -1,0 +1,16 @@
+
+.event01
+{
+    width: 90%;
+    animation: event_a 5s ;
+
+}
+
+
+
+
+
+@keyframes event_a {
+  0% { width: 0px; }
+  100% { width: 90%; }
+}
